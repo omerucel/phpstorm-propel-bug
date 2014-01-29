@@ -1,0 +1,11 @@
+{
+    "name": "omerucel/phpstorm-propel-bug",
+    "require": {
+        "propel/propel": "2.0.*@dev"
+    },
+    "autoload": {
+        "psr-0" : {
+            "Application" : "src/"
+        }
+    }
+}
